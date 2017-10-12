@@ -1,5 +1,5 @@
 # CoreMathImgProc
-Core library to process image of mathematics formula .
+Core library for mathe image recognition.
 
 This source repository is editable in eclipse and can be build using command:
 
